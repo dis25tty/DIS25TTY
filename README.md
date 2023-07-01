@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 
-### Hi there, I am Manish 👋
+### Hi there, I am Disha👋
 
-<!--
-**codemanishh/codemanishh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 - 🔭 I’m currently working with and along Full Stack Development.
 - 👯 I’m looking to collaborate on web based projects and blockchain enhancement.
 - 💬 Ask me about something I can help you with

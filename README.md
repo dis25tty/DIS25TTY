@@ -1,7 +1,6 @@
-### Hi there 👋
 
 
-### Hi there, I am Disha👋
+### Hi there, I am DISHA SHETTY👋
 
 
 - 🔭 I’m currently working with and along Full Stack Development.

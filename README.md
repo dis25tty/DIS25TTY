@@ -16,3 +16,4 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dis25tty&" alt="babaramdev-py" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dis25tty)](https://github.com/ryo-ma/github-profile-trophy)

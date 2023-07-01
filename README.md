@@ -14,5 +14,5 @@
 
 ![DISHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=dis25tty&count_private=true&include_all_commits=true&theme=dracula)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dis25tty&show_icons=true&locale=en" alt="babaramdev-py" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dis25tty&" alt="babaramdev-py" />
 

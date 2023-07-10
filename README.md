@@ -2,6 +2,10 @@
 
 ### Hi there, I am DISHA SHETTY👋
 
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=codemanishh&label=Profile%20views&color=0e75b6&style=flat"
+        alt="codemanishh" /> </p>
+
 
 - 🔭 I’m currently working with and along Full Stack Development.
 - 👯 I’m looking to collaborate on web based projects and blockchain enhancement.

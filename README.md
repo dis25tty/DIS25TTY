@@ -7,7 +7,7 @@
         alt="codemanishh" /> </p>
 
 
-- 🔭 I’m currently working with and along Full Stack Development.
+- 🔭 I’m currently working on Full Stack Development.
 - 👯 I’m looking to collaborate on web based projects and blockchain enhancement.
 - 📫 How to reach me:mdsdishashetty2468@gmail.com 
 

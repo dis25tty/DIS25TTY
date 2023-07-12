@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on Full Stack Development.
-- 👯 I’m looking to collaborate on web based projects and blockchain enhancement.
+- 👯 I’m looking to collaborate on web based projects and blockchain enhancement..
 - 📫 How to reach me:mdsdishashetty2468@gmail.com 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dis25tty&layout=compact&langs_count=8&theme=onedark)

@@ -20,6 +20,7 @@
         rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649"
             alt="css3" width="40" height="40" /> </a>
+         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
              <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQsenTcQtOr0PJkS8d9HFO0c1nTeQa1IZjg&usqp=CAU"
             alt="express" width="40" height="40" /> </a> 

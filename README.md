@@ -69,12 +69,12 @@
 
 | Project | Description | Stack |
 |----------|--------------|--------|
-| 🛠 **Service Automation Tool** | Automated vehicle service workflows integrated with Salesforce using AWS S3, Prisma, and GraphQL. | `AWS`, `GraphQL`, `Prisma`, `Node.js` |
-| 🔐 **Valhalla Auth System** | OTP-based token service with JWT, RSA encryption, PostgreSQL, and XAPIKEYS. | `Node.js`, `AWS`, `PostgreSQL` |
-| ⚡ **Simple Connect** | Push notification system using Firebase Cloud Messaging and REST APIs. | `Firebase`, `Node.js` |
-| 🤖 **Analytics Chatbot** | ChatGPT-powered BI assistant fetching enterprise insights from analytics APIs. | `OpenAI`, `GraphQL` |
-| 🚀 **Connected Data Platform** | Real-time vehicle telemetry with Apache Pinot, EMQX, MQTT, Grafana. | `Kafka`, `MQTT`, `Grafana` |
-| 🏭 **DMS & Manufacturing Tool** | Digitized manufacturing documentation and workflow approvals. | `Prisma`, `React`, `Node.js` |
+|  **Service Automation Tool** | Automated vehicle service workflows integrated with Salesforce using AWS S3, Prisma, and GraphQL. | `AWS`, `GraphQL`, `Prisma`, `Node.js` |
+|  **Valhalla Auth System** | OTP-based token service with JWT, RSA encryption, PostgreSQL, and XAPIKEYS. | `Node.js`, `AWS`, `PostgreSQL` |
+|  **Simple Connect** | Push notification system using Firebase Cloud Messaging and REST APIs. | `Firebase`, `Node.js` |
+|  **Analytics Chatbot** | ChatGPT-powered BI assistant fetching enterprise insights from analytics APIs. | `OpenAI`, `GraphQL` |
+|  **Connected Data Platform** | Real-time vehicle telemetry with Apache Pinot, EMQX, MQTT, Grafana. | `Kafka`, `MQTT`, `Grafana` |
+| **DMS & Manufacturing Tool** | Digitized manufacturing documentation and workflow approvals. | `Prisma`, `React`, `Node.js` |
 
 ---
 
@@ -93,10 +93,10 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:mdsdishashetty2468@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dis25tty" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/m-disha-shetty/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/dis25tty" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐️ *"Code. Build. Improve. Repeat."* — **Disha Shetty**
+⭐️ *"Somebody and Everybody was once a beginner"* — **Disha Shetty**

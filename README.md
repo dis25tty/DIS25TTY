@@ -1,48 +1,102 @@
+<!-- HEADER -->
+<h1 align="center">Hi there, I'm <span style="color:#ff79c6;">DISHA SHETTY 👋</span></h1>
+<h3 align="center">🚀 Full Stack Developer | Backend Engineer | Cloud Enthusiast</h3>
 
-
-### Hi there, I am DISHA SHETTY👋
-
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=codemanishh&label=Profile%20views&color=0e75b6&style=flat"
-        alt="codemanishh" /> </p>
-
-
-- 🔭 I’m currently working on Full Stack Development.
-- 👯 I’m looking to collaborate on web based projects and blockchain enhancement..
-- 📫 How to reach me:mdsdishashetty2468@gmail.com 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dis25tty&layout=compact&langs_count=8&theme=onedark)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=dis25tty&no-bg=true&theme=monokai&rank=SECRET,SSS,SS,S,AA,A,B)
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649"
-            alt="css3" width="40" height="40" /> </a>
-         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-             <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQsenTcQtOr0PJkS8d9HFO0c1nTeQa1IZjg&usqp=CAU"
-            alt="express" width="40" height="40" /> </a> 
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://img2.gratispng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg"
-            alt="html5" width="40" height="40" /> </a>  <a href="https://www.mongodb.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
-            alt="mongodb" width="100" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"
-            alt="mysql" width="40" height="40" /> </a>  <img
-            src="https://play-lh.googleusercontent.com/lNy35u_4HIHu4Wqj0WIENtN0HmeZuEx4V8UwdMw0wxcRKvYbskmPEII05HWxK5nI0g"
-            alt="nodejs" width="80" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-jpq1ZKOvnbJIGSYVcdpfC0LKsk57DWqLZhWACzPD6A&s" alt="php"
-            width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dis25tty&label=Profile%20Views&color=ff79c6&style=flat" alt="Profile Views" />
 </p>
 
-![DISHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=dis25tty&count_private=true&include_all_commits=true&theme=dracula)
+---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dis25tty&" alt="babaramdev-py" />
+### 👩‍💻 About Me
+- 🔭 Currently working as **SDE-1 (Backend Developer)** at **Simple Energy Pvt Ltd**  
+- 🌐 Passionate about **Full Stack Development, Cloud Systems, and Scalable Architecture**  
+- 👯 Open to collaborate on **Web, IoT, and Blockchain-based projects**  
+- 💬 Ask me about **Node.js, Kafka, GraphQL, Prisma, AWS, PostgreSQL**  
+- 📫 Reach me at **mdsdishashetty2468@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dis25tty)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,html,css,php,java,python,c,cpp,mongodb,postgres,mysql,git,aws,gcp,graphql,prisma,linux,docker" />
+</p>
+
+---
+
+### 🏆 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dis25tty&count_private=true&include_all_commits=true&theme=dracula&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dis25tty&theme=dracula&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dis25tty&layout=compact&langs_count=8&theme=onedark&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dis25tty&theme=monokai&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
+### 🎓 Education
+**Bachelor of Engineering (B.E.)** – Information Science & Engineering  
+📍 Dayananda Sagar Academy of Technology & Management, Bangalore  
+📆 March 2020 – May 2024 | **CGPA: 9.05**
+
+---
+
+### 💼 Work Experience
+
+#### 🧩 SDE-1 (Backend Developer) | Simple Energy Pvt Ltd _(Jan 2024 – Present)_
+- ⚙️ **Order Orchestration Platform:** Built a Kafka-based orchestration system managing end-to-end order lifecycle; improved processing latency by **45%** and uptime to **99.9%** across 5 microservices.  
+- ☁️ **Salesforce Integration:** Developed high-throughput CRM sync layer with REST & Bulk APIs, reducing sync time from hours to **under 2 minutes**.  
+- 💳 **Payment Layer:** Integrated **Cashfree (PG)** and **Cashgram (Payouts)**, achieving **100% automated refunds**.  
+- 🔐 **IAM System:** Implemented AWS Cognito with custom JWT authorizers and API Gateway x-api-keys.  
+- 📡 **Telematics Platform:** Built real-time data pipelines with **Kafka, Apache Pinot, EMQX, and MQTT**.
+
+#### 🌐 Full Stack Developer Intern | C-DOT (Centre for Development of Telematics) _(Sept 2023 – Nov 2023)_
+- Boosted BSNL Wi-Fi Data Path System performance by **40%**, reducing latency by **30%**.  
+- Revamped authentication flow, cutting login time by **50%**.  
+- Enhanced VLAN configurations for 1,400+ users improving performance by **30%**.
+
+---
+
+### 🧩 Featured Projects
+
+| Project | Description | Stack |
+|----------|--------------|--------|
+| 🛠 **Service Automation Tool** | Automated vehicle service workflows integrated with Salesforce using AWS S3, Prisma, and GraphQL. | `AWS`, `GraphQL`, `Prisma`, `Node.js` |
+| 🔐 **Valhalla Auth System** | OTP-based token service with JWT, RSA encryption, PostgreSQL, and XAPIKEYS. | `Node.js`, `AWS`, `PostgreSQL` |
+| ⚡ **Simple Connect** | Push notification system using Firebase Cloud Messaging and REST APIs. | `Firebase`, `Node.js` |
+| 🤖 **Analytics Chatbot** | ChatGPT-powered BI assistant fetching enterprise insights from analytics APIs. | `OpenAI`, `GraphQL` |
+| 🚀 **Connected Data Platform** | Real-time vehicle telemetry with Apache Pinot, EMQX, MQTT, Grafana. | `Kafka`, `MQTT`, `Grafana` |
+| 🏭 **DMS & Manufacturing Tool** | Digitized manufacturing documentation and workflow approvals. | `Prisma`, `React`, `Node.js` |
+
+---
+
+### ⚙️ Skills Overview
+**Languages:** JavaScript, TypeScript, Python, Java, PHP, C, C++  
+**Frameworks & Tools:** Node.js, Express.js, React.js, Prisma, Jest, Mocha  
+**Messaging & Streaming:** Kafka, EMQX  
+**Databases:** PostgreSQL, MongoDB, MySQL, Apache Pinot  
+**Cloud Platforms:** AWS, GCP (Cognito, S3, API Gateway, Lambda)  
+**API Development:** REST, GraphQL, Apollo, Swagger, Postman  
+**DevOps & Systems:** Git, CI/CD, Docker, Linux  
+**Security:** JWT, RSA Encryption, OAuth, API Key Auth  
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:mdsdishashetty2468@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dis25tty" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/dis25tty" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ *"Code. Build. Improve. Repeat."* — **Disha Shetty**

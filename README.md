@@ -97,7 +97,7 @@ Software Development Engineer II | Backend & Distributed Systems | Cloud
 ---
 
 <p align="center">
-  <i>"Somebody and Everybody was once a beginner."</i>
+  <i>""</i>
 </p>
 
 <p align="center">
